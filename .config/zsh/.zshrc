@@ -121,3 +121,9 @@ done
 
 source $XDG_CONFIG_HOME/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
+
+# +-----------------+
+# | STARSHIP PROMPT |
+# +-----------------+
+
+eval "$(starship init zsh)"
