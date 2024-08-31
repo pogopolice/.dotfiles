@@ -6,11 +6,11 @@ Install these packages
 fzf
 git
 less
-starship
 stow
 tmux
-ttf-meslo-nerd
 zsh
+starship
+ttf-meslo-nerd
 
 ** NeoVim Packages **
 neovim
