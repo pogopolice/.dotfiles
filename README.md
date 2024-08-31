@@ -15,3 +15,8 @@ ttf-meslo-nerd
 ** NeoVim Packages **
 neovim
 xclip
+
+**Installation**
+Clone this project into your home directory
+git clone --recurse-submodules https://github.com/pogopolice/.dotfiles.git
+stow .
