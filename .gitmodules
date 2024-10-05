@@ -4,12 +4,12 @@
 [submodule ".config/zsh/plugins/zsh-syntax-highlighting"]
 	path = .config/zsh/plugins/zsh-syntax-highlighting
 	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
-[submodule ".config/kickstart.nvim"]
-	path = .config/kickstart.nvim
-	url = https://github.com/pogopolice/kickstart.nvim.git
 [submodule ".config/tmux/plugins/tpm"]
 	path = .config/tmux/plugins/tpm
 	url = https://github.com/tmux-plugins/tpm
 [submodule ".config/tmux/plugins/catppuccin"]
 	path = .config/tmux/plugins/catppuccin
 	url = https://github.com/catppuccin/tmux.git
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = https://github.com/pogopolice/kickstart.nvim.git
