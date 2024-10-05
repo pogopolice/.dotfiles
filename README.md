@@ -45,7 +45,7 @@ less
 ### AWS CLI Install
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 - unzip awscliv2.zip
-- ./aws/install -i /usr/local/aws-cli -b /usr/local/bin
+- sudo ./aws/install
 - rm -rf awscliv2.zip
 - aws configure sso
 
@@ -58,5 +58,5 @@ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip
 - stow .
 
 ### Change Default Shell
-sudo chsh -s $(which zsh)
+chsh -s $(which zsh)
 
