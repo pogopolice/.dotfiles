@@ -52,6 +52,11 @@ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip
 ### AWS CDK Install
 - npm install -g aws-cdk
 
+## GIT
+git config --global user.name "USER NAME"
+git config --global user.email "USER@EMAIL"
+git config --global init.defaultBranch main
+
 ## Install dotfiles
 ### Clone this project into your home directory
 - git clone --recurse-submodules https://github.com/pogopolice/.dotfiles.git
