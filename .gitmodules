@@ -10,3 +10,7 @@
 [submodule ".config/tmux/plugins/catppuccin"]
 	path = .config/tmux/plugins/catppuccin
 	url = https://github.com/catppuccin/tmux.git
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = https://github.com/pogopolice/kickstart.nvim.git
+	branch = personalize
