@@ -24,6 +24,7 @@ unzip
 gcc
 ripgrep
 fd
+tree-sitter-cli
 
 ### Python
 python-pip
